@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FQZU6uuGvkWPrm9833iraYPAIxwQOBbkD4CpOCuvQZFbwHrNdxHEhDNLQ5wynPMGxoIguB+h6V2Akdd0bQhjkg==",
+  "success": true,
+  "projectFilePath": "D:\\D\\BSUIR-master\\BSUIR-master\\5 semestr\\IGI\\WEB_953506_KONDRAHOV.BLAZOR\\Shared\\WEB_Sergeev.BLAZOR.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
